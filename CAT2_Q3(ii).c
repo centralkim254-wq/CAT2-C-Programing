@@ -1,7 +1,7 @@
 /*
 Name: Allan kimutai
 Reg: PA/106/G/28722/25
-programm to read integers 
+Description: programm to read integers 
 */
 void process_file() {
     FILE *input_file, *output_file;
