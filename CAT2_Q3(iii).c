@@ -1,7 +1,7 @@
 /*
 Name: Allan kimutai
 Reg: PA/106/G/28722/25
-programm that reads and display 
+Description: programm that reads and display 
 */
 void display_files() {
 FILE *input_file, *output_file;
