@@ -1,7 +1,7 @@
 /*
 Name: Allan kimutai
 Reg: PA/106/G/28722/25
-programm for hours_worked in a week 
+programm for input 1o intergers 
 */
 #include <stdlib.h>
 void write_to_file() {
